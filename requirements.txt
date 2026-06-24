@@ -1,9 +1,7 @@
-pip install -r requirements.txt
-pip install git+https://github.com/openai/CLIP.git
 torch
 torchvision
 ftfy
 regex
 tqdm
 Pillow
-git+https://github.com/openai/CLIP.git
+
